@@ -6,5 +6,7 @@ public class demo {
         //git测试
 
         System.out.println("git测试111");
+        System.out.println("git测试111");
+        System.out.println("git测试111");
     }
 }
